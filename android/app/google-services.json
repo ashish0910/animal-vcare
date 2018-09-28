@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "397385791998",
+    "firebase_url": "https://fir-flutter-a5069.firebaseio.com",
+    "project_id": "fir-flutter-a5069",
+    "storage_bucket": "fir-flutter-a5069.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397385791998:android:2d172178a40df90d",
+        "android_client_info": {
+          "package_name": "com.ashish.vcareanimal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397385791998-m21q4cch03hbtko1lmv9tido21ernf8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashish.vcareanimal",
+            "certificate_hash": "83e41324f2e53041c15e0fc83d376628284cef1d"
+          }
+        },
+        {
+          "client_id": "397385791998-76kg0e6car08ofucofcu1ngpcm3kmd50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU62bU0_yzLR0bx98oMRgvJywN0DUf1NQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397385791998-76kg0e6car08ofucofcu1ngpcm3kmd50.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "397385791998-8r0f49cphn43q9mvl18moreal4rlhsje.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vcareanimal"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397385791998:android:187aec6b0d331075",
+        "android_client_info": {
+          "package_name": "com.example.vcareanimal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397385791998-12ne9f4l1qrl92nsmv3srud04fdi22i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vcareanimal",
+            "certificate_hash": "ec3dc952c0ba9bd32b026dd3de2e98b126fe886a"
+          }
+        },
+        {
+          "client_id": "397385791998-76kg0e6car08ofucofcu1ngpcm3kmd50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU62bU0_yzLR0bx98oMRgvJywN0DUf1NQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397385791998-76kg0e6car08ofucofcu1ngpcm3kmd50.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "397385791998-8r0f49cphn43q9mvl18moreal4rlhsje.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vcareanimal"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
